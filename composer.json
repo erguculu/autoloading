@@ -1,0 +1,12 @@
+{
+    "name": "yusuf/autoloading",
+    "description": "Autoloading",
+    "authors": [{
+        "name": "yusuf celik",
+        "email": "erguculu@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": { "App\\": "src" }
+    }
+}
